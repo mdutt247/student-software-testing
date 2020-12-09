@@ -1,0 +1,84 @@
+http://www.guru99.com/software-testing-introduction-importance.html
+
+
+What is Software Testing & Why Testing is Important
+https://www.youtube.com/watch?v=TDynSmrzpXw
+
+Software Testing : Seven Testing Principles
+https://www.youtube.com/watch?v=rFaWOw8bIMM
+
+Software Testing: SDLC V/s STLC
+https://www.youtube.com/watch?v=An7HC1LolDM
+
+What is Unit Testing
+https://www.youtube.com/watch?v=lj5nnGa_DIw
+
+Software Testing : System Testing & Acceptance Testing
+https://www.youtube.com/watch?v=N8-qNMHOVyw
+
+What is Integration Testing
+https://www.youtube.com/watch?v=QYCaaNz8emY
+
+Sanity and Smoke Testing
+https://www.youtube.com/watch?v=rWf-ZqHaL64
+
+What is Regression Testing
+https://www.youtube.com/watch?v=aeu5zacsHsI
+
+What is Non-Functional Testing
+https://www.youtube.com/watch?v=n2A9OakDYcY
+
+Test Formality
+https://www.youtube.com/watch?v=rFMq5bUz7bk
+
+What is a Test Scenario
+https://www.youtube.com/watch?v=wMN0pCyjQ9E
+
+What is Test Basis in Software Testing
+https://www.youtube.com/watch?v=zz34cEC8Z4c
+
+How to write a Test Case
+https://www.youtube.com/watch?v=BBmA5Qp6Ghk
+
+How to Create Requirement Traceability Matrix (RTM)
+https://www.youtube.com/watch?v=cm-cSW66Isc
+
+Boundary Value Analysis and Equivalence Partitioning
+https://www.youtube.com/watch?v=P1Hv2sUPKeM
+
+What is Decision Table Testing
+https://www.youtube.com/watch?v=TSbIDrx_KVY
+
+State Transition Testing
+https://www.youtube.com/watch?v=_Udjai_6b9Y
+
+Use Case Testing
+https://www.youtube.com/watch?v=ijtvAvapsP0
+
+What is Static Testing? What is a Review
+https://www.youtube.com/watch?v=YosSY0e5Xy4
+
+Test Estimation Techniques
+https://www.youtube.com/watch?v=btNboe_EhX8
+
+What is a Test Plan
+https://www.youtube.com/watch?v=Vdm1Lh540LM
+
+What is Software Defect or Software Bug
+https://www.youtube.com/watch?v=EKv85-K_6w4
+
+Defect/Bug Life Cycle
+https://www.youtube.com/watch?v=NpDZ2NJmDrE
+
+Software Testing Life Cycle STLC
+https://www.youtube.com/watch?v=Dq5IYYqnnGQ
+
+What is White Box Testing
+https://www.youtube.com/watch?v=3bJcvBLJViQ
+
+What is Black Box Testing
+https://www.youtube.com/watch?v=Wi75S5TTfQ0
+
+What is Automated Testing
+https://www.youtube.com/watch?v=RbSlW8jZFe8
+
